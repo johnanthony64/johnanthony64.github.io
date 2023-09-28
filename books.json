@@ -1,0 +1,93 @@
+[
+    {
+      "author": "George Orwell",
+      "country": "United Kingdom",
+      "imageLink": "https://upload.wikimedia.org/wikipedia/en/c/c3/1984first.jpg",
+      "language": "English",
+      "link": "https://en.wikipedia.org/wiki/1984_(novel)",
+      "pages": 328,
+      "title": "1984",
+      "year": 1949
+    },
+    {
+      "author": "Harper Lee",
+      "country": "United States",
+      "imageLink": "https://upload.wikimedia.org/wikipedia/en/7/79/To_Kill_a_Mockingbird.JPG",
+      "language": "English",
+      "link": "https://en.wikipedia.org/wiki/To_Kill_a_Mockingbird",
+      "pages": 281,
+      "title": "To Kill a Mockingbird",
+      "year": 1960
+    },
+    {
+      "author": "J.R.R. Tolkien",
+      "country": "United Kingdom",
+      "imageLink": "https://upload.wikimedia.org/wikipedia/en/8/8a/The_Lord_of_the_Rings_trilogy_cover.jpg",
+      "language": "English",
+      "link": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings",
+      "pages": 1178,
+      "title": "The Lord of the Rings",
+      "year": 1954
+    },
+    {
+      "author": "F. Scott Fitzgerald",
+      "country": "United States",
+      "imageLink": "https://upload.wikimedia.org/wikipedia/en/f/f7/TheGreatGatsby_1925jacket.gif",
+      "language": "English",
+      "link": "https://en.wikipedia.org/wiki/The_Great_Gatsby",
+      "pages": 180,
+      "title": "The Great Gatsby",
+      "year": 1925
+    },
+    {
+      "author": "Jane Austen",
+      "country": "United Kingdom",
+      "imageLink": "https://upload.wikimedia.org/wikipedia/en/8/86/SenseAndSensibility.jpg",
+      "language": "English",
+      "link": "https://en.wikipedia.org/wiki/Sense_and_Sensibility",
+      "pages": 374,
+      "title": "Sense and Sensibility",
+      "year": 1811
+    },
+    {
+      "author": "Mark Twain",
+      "country": "United States",
+      "imageLink": "https://upload.wikimedia.org/wikipedia/commons/8/84/Huckleberry_Finn_book.jpg",
+      "language": "English",
+      "link": "https://en.wikipedia.org/wiki/Adventures_of_Huckleberry_Finn",
+      "pages": 366,
+      "title": "Adventures of Huckleberry Finn",
+      "year": 1884
+    },
+    {
+      "author": "Leo Tolstoy",
+      "country": "Russia",
+      "imageLink": "https://upload.wikimedia.org/wikipedia/commons/9/91/WarAndPeace1.jpg",
+      "language": "Russian",
+      "link": "https://en.wikipedia.org/wiki/War_and_Peace",
+      "pages": 1225,
+      "title": "War and Peace",
+      "year": 1869
+    },
+    {
+      "author": "Charlotte Brontë",
+      "country": "United Kingdom",
+      "imageLink": "https://upload.wikimedia.org/wikipedia/commons/4/42/Charlotte_Bronte_-_Jane_Eyre_%281st_edition_cover%29.jpg",
+      "language": "English",
+      "link": "https://en.wikipedia.org/wiki/Jane_Eyre",
+      "pages": 508,
+      "title": "Jane Eyre",
+      "year": 1847
+    },
+    {
+      "author": "William Golding",
+      "country": "United Kingdom",
+      "imageLink": "https://upload.wikimedia.org/wikipedia/en/c/cb/Lord_of_the_Flies_Cover_2002.jpg",
+      "language": "English",
+      "link": "https://en.wikipedia.org/wiki/Lord_of_the_Flies",
+      "pages": 224,
+      "title": "Lord of the Flies",
+      "year": 1954
+    }
+  ]
+  
